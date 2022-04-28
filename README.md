@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![avatar](images/Title-modified.png.png)
+![avatar](images/Title-modified.png)
 
 
 
