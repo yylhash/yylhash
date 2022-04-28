@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **yylhash/yylhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![avatar](images/Title.png)
+![avatar](images/Title-modified.png.png)
 
 
 
