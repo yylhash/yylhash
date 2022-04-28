@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![[avatar](https://github.com/yylhash)](images/Title-modified.png)
+![https://github.com/yylhash](images/Title-modified.png)
 
 
 
