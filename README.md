@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](images/Title.png)
 
 
 
