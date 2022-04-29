@@ -17,12 +17,18 @@ Here are some ideas to get you started:
 [![avatar](images/Title-modified.png)](https://github.com/yylhash)
 
 # My Work
+<!-- 
+[![avatar](images/my-repos.png)](https://github.com/yylhash?tab=repositories)    
 
-[![avatar](images/my-repos.png)](https://github.com/yylhash?tab=repositories)       [![avatar](images/yesplaymusic.png)](https://github.com/yylhash/YesPlayMusic)
+[![avatar](images/yesplaymusic.png)](https://github.com/yylhash/YesPlayMusic)
 
-[![avatar](images/leetcode-modified.png)](https://github.com/yylhash/LeetCode)
+[![avatar](images/leetcode-modified.png)](https://github.com/yylhash/LeetCode) -->
 
 
+<figure class="half">
+    <img src="images/my-repos.png">
+    <img src="images/yesplaymusic.png">
+</figure>
 
 
 [![](图片地址)](超链接地址)
