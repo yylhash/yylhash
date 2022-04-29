@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # My Work
 
-[![avatar](images/my-repos.png)](https://github.com/yylhash?tab=repositories)       [![avatar](images/yesplaymusic.png)](https://github.com/yylhash/YesPlayMusic)
+[![avatar](images/my-repos.png)](https://github.com/yylhash?tab=repositories)[![avatar](images/yesplaymusic.png)](https://github.com/yylhash/YesPlayMusic)
 
 [![avatar](images/leetcode-modified.png)](https://github.com/yylhash/LeetCode)
 
