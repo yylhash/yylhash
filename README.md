@@ -18,11 +18,22 @@ Here are some ideas to get you started:
 
 # My Work
 
-<figure class="half">
-    <img src="images/my-repos.png">
-    <img src="images/yesplaymusic.png">
-</figure>
+<p>
+  <a href="https://github.com/qier222/YesPlayMusic"><img src="./images/yesplaymusic.png" width=48% alt="YesPlayMusic - 高颜值的第三方网易云客户端"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/qier222?tab=repositories"><img src="./images/my-repos.png" width=48% alt="查看我的仓库"></a>
+</p>
+<p>
+  <a href="https://github.com/yylhash/LeetCode"><img src="./images/leetcode-modified.png" width=48% alt="leetcode-力扣算法题解"></a>
+</p>
 
+
+[![avatar](images/my-repos.png)](https://github.com/yylhash?tab=repositories)    
+
+
+[![avatar](images/yesplaymusic.png)](https://github.com/yylhash/YesPlayMusic)[![avatar](images/my-repos.png)](https://github.com/yylhash?tab=repositories)
+
+[![avatar](images/leetcode-modified.png)](https://github.com/yylhash/LeetCode)
 
 [![](图片地址)](超链接地址)
 
